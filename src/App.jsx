@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Backend Testing</h1>
+      <h1>Backend Testing 2</h1>
       <hr/>
       {/** Här ska vi ladda in vår data från backend */}
       <input value={selectedPokemon} onChange={selectPokemonCallback}></input>
